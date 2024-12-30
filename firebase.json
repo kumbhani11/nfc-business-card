@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "public": "public",
+    "github": {
+    "repo": "Pythogram001/nfc-business-card",
+    "branch": "main"
+    },
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
